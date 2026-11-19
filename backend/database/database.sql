@@ -186,4 +186,6 @@ No bairro Guandu, o Mercado Municipal Quincas Leão — conhecido como Mercado d
 '2026-11-18'
 );
 
---
+-- ABAIXO COLOCAR OS RESTAURANTES
+
+INSERT OR ignore
